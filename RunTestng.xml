@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="selenium_demo1802">
+    <classes>
+      <class name="com.selenium_day01.TestNgDemo1">
+       <methods>
+         <include name="testCase1">
+
+         </include>
+       </methods>
+      </class> <!-- com.selenium_day01.OpenBrowserTest -->
+    </classes>
+  </test> <!-- selenium_demo1802 -->
+</suite> <!-- Default Suite -->
