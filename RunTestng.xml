@@ -5,9 +5,6 @@
     <classes>
       <class name="com.selenium_day01.TestNgDemo1">
        <methods>
-         <include name="testCase1">
-
-         </include>
        </methods>
       </class> <!-- com.selenium_day01.OpenBrowserTest -->
     </classes>
