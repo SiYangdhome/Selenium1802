@@ -20,7 +20,7 @@ public class TestNgDemo1 {
     public void testCase1(){
         System.out.println("Hello,World!");
         String a = "Hello,World!";
-        String b = "Hello,World!";
+        String b = "hello,world!";
         Assert.assertEquals(a,b);
     }
 
